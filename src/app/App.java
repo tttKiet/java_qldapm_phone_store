@@ -25,7 +25,6 @@ public class App {
                     case 1:
                         handleLogin(conn);
                         showMenu();
-
                         break;
                     case 2:
                         handleRegister(conn);
